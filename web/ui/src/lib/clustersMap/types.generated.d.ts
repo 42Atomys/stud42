@@ -10,6 +10,7 @@ export type CampusIdentifier =
   | 'angouleme'
   | 'helsinki'
   | 'lausanne'
+  | 'lyon'
   | 'madrid'
   | 'malaga'
   | 'mulhouse'
