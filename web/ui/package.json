@@ -31,7 +31,7 @@
     "@headlessui/react": "^1.7.7",
     "@sentry/browser": "^7.84.0",
     "@sentry/nextjs": "^7.84.0",
-    "@sentry/node": "^7.84.0",
+    "@sentry/node": "^8.51.0",
     "@types/uuid": "^9.0.1",
     "apollo3-cache-persist": "^0.14.1",
     "axios": "^1.7.2",
