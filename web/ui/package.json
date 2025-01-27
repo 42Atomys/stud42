@@ -34,7 +34,7 @@
     "@sentry/node": "^7.84.0",
     "@types/uuid": "^9.0.1",
     "apollo3-cache-persist": "^0.14.1",
-    "axios": "^1.7.2",
+    "axios": "^1.7.7",
     "classnames": "^2.3.2",
     "dayjs": "^1.11.7",
     "deepmerge": "^4.2.2",
